@@ -1,1 +1,1 @@
-https://V-Spotter.github.io/rsschool-cv/cv
+https://V-Spotter.github.io/rsschool-cv/
